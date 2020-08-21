@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
-[<img align="left" alt="RPOINT IT SOLUTIONS" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website](https://rpointsolution.com)
-[<img align="left" alt="AdrianDucao | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter](https://twitter.com/AdrianDucao)
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram](https://www.instagram.com/ian_ducao.php/)
+[<img align="left" alt="RPOINT IT SOLUTIONS" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://rpointsolution.com)
+[<img align="left" alt="AdrianDucao | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/AdrianDucao)
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/ian_ducao.php/)
 
 <br />
 
