@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-<summary>:zap: Github Stats</summary>
+### Github Stats
 
 <img align="left" alt="AdrianDucao's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=AdrianDucao&show_icons=true&hide_border=true" />
 
