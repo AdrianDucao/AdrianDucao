@@ -1,7 +1,4 @@
-### HELLO!!! 👋
-
-<!--
-**AdrianDucao/AdrianDucao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### HELLO THERE! here's what i'm working on 👋
 
 Here are some ideas to get you started:
 
@@ -13,4 +10,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... [Contact](https://rpointsolution.com/contact)
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I am your Asian Friend
--->
+
