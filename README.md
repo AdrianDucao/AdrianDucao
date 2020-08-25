@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 
 ### Github Stats
 
-<img align="left" alt="AdrianDucao's Github Stats" src="https://https://adrian-ducao-git-master.adrianducao.vercel.app//api?username=AdrianDucao&show_icons=true&hide_border=true" />
+<img align="left" alt="AdrianDucao's Github Stats" src="https://adrian-ducao-git-master.adrianducao.vercel.app//api?username=AdrianDucao&show_icons=true&hide_border=true" />
