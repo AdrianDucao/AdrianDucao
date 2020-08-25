@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 [<img align="left" alt="RPOINT IT SOLUTIONS" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://rpointsolution.com)
 [<img align="left" alt="AdrianDucao | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/AdrianDucao)
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/ian_ducao.php/)
+[<img align="left" alt="AdrianDucao | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/ian_ducao.php/)
 
 <br />
 
@@ -25,9 +25,5 @@ Here are some ideas to get you started:
 
 <br />
 <br />
-
-### Github Stats
-
-<img align="left" alt="AdrianDucao's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=AdrianDucao&show_icons=true&hide_border=true" />
 
 
