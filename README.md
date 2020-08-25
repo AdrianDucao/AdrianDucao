@@ -26,4 +26,7 @@ Here are some ideas to get you started:
 <br />
 <br />
 
+### Github Stats
 
+<img align="left" alt="AdrianDucao's Github Stats" src="https://adrian-ducao.vercel.app
+/api?username=AdrianDucao&show_icons=true&hide_border=true" />
