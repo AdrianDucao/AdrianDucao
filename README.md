@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="RPOINT IT SOLUTIONS" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://rpointsolution.com)
 [<img align="left" alt="AdrianDucao | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/AdrianDucao)
 [<img align="left" alt="AdrianDucao | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/ian_ducao.php/)
+[<img align="left" alt="AdrianDucao | Hacker Rank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />](https://www.hackerrank.com/adrianducao)
 
 <br />
 <br />
