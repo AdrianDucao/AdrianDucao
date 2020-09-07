@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianDucao&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.adrianducao.vercel.app/api/top-langs/?username=AdrianDucao&layout=compact)](https://github.com/AdrianDucao/github-readme-stats)
 
 <img align="left" alt="AdrianDucao's Github Stats" src="https://github-readme-stats.adrianducao.vercel.app/api?username=AdrianDucao&show_icons=true&hide_border=true" />
