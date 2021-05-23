@@ -3,9 +3,9 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [RPOINT IT SOLUTIONS](https://rpointsolution.com), Python Scripts, and Certifications
-- 🌱 I’m currently learning React.js
-- 👯 I’m looking to collaborate on making money
-- 🤔 I’m looking for help with React.js
+- 🌱 I’m currently learning ...nothing for now
+- 👯 I’m looking to collaborate and making money
+- 🤔 I’m looking for help with ...nothing for now
 - 💬 Ask me about Anything
 - 📫 How to reach me: [Contact](https://rpointsolution.com/contact)
 - 😄 Pronouns: He/Him
