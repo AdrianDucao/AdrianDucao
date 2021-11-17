@@ -2,9 +2,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on... pentesting tools and network security.
-- 🌱 I’m currently... learning to properly detect port scans and malicious connections
-- 👯 I’m looking to... collaborate and making money
+- 🔭 I’m currently working on... nothing
+- 🌱 I’m currently... not doing anything
+- 👯 I’m looking to... making money
 - 🤔 I’m looking for help with... nothing for now
 - 💬 Ask me about Anything
 - 📫 How to reach me: [Contact](https://rpointsolution.com/contact)
