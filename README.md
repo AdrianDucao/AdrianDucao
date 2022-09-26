@@ -2,9 +2,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on... nothing
-- 🌱 I’m currently... not doing anything
-- 👯 I’m looking to... making money
+- 🔭 I’m currently working on... SmartCrop
+- 🌱 I’m currently... doing Hardware Testing for SmartCrop
+- 👯 I’m looking to... making MORE money
 - 🤔 I’m looking for help with... nothing for now
 - 💬 Ask me about Anything
 - 📫 How to reach me: [Contact](https://rpointsolution.com/contact)
