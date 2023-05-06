@@ -2,12 +2,12 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on... SmartCrop
-- 🌱 I’m currently... doing Hardware Testing for SmartCrop
+- 🔭 I’m currently working on... Private Project
+- 🌱 I’m currently... doing Private Project
 - 👯 I’m looking to... making MORE money
-- 🤔 I’m looking for help with... nothing for now
-- 💬 Ask me about Anything
-- 📫 How to reach me: [Contact](https://rpointsolution.com/contact)
+- 🤔 I’m looking for help with... nothing
+- 💬 Ask me about... Anything
+- 📫 How to reach me: [Contact](adrianducao@gmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am your Asian Friend
 
